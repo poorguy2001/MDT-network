@@ -1,2 +1,2 @@
-# MDT-network
-The Object Detection Framework for Mars Dust Devil Detection Transformer (MDT)
+# MDD-Human
+Martian Dust Devil Remote Sensing Dataset
